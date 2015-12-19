@@ -1,0 +1,6 @@
+#load{
+	font-weight:bold;
+}
+#load:active{
+	font-weight:normal;
+}
